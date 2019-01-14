@@ -1,4 +1,4 @@
-
+    
 
 function sudokuSolver(sudoku){
     let nonPosibilities = {};
